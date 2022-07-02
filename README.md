@@ -2,4 +2,4 @@
 
 - In the middle of this notebook, 
   - I checked behaviors of pyplot, executing the methods in various conditions and combinations.
-  - I encountered and resolved an issue of Japanese font dependency (Version gap).
+  - I encountered an dependency issue of Japanese font's version and resolved it.
